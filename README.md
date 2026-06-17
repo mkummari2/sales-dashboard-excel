@@ -44,7 +44,3 @@ Category and customer segment breakdown.
 - Dashboard Design
 - Data Cleaning
 - Excel Reporting
-
-## Project Preview
-
-Add screenshots here after uploading them.
